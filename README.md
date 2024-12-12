@@ -1,6 +1,6 @@
 ## Full-Stack-Serverless
 
-React, AWS, and GraphQL 
+React, AWS, and GraphQL  
 
 ## License
 
